@@ -1,6 +1,6 @@
 package piorityqueue;
 
-import com.lab2.arraylist.ArrayList;
+import piorityqueue.Arraylist;
 
 public class ArrayLisyPiorityQueue {
 	
