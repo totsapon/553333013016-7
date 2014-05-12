@@ -2,9 +2,9 @@ package piorityqueue;
 
 import piorityqueue.Arraylist;
 
-public class ArrayLisyPiorityQueue {
+public class ArrayListPiorityQueue {
 	
-	ArrayList lst = new ArrayList();
+	Arraylist lst = new Arraylist();
 	public void enQueue(Object e) {
 		lst.add(e);
 	}
@@ -23,8 +23,6 @@ public class ArrayLisyPiorityQueue {
 	                 }
 	       }
 	       return max;
-	}
 
-	}
-
+}
 }
