@@ -1,6 +1,6 @@
 package piorityqueue;
 
-import arraylist.ArrayList;
+import com.lab2.arraylist.ArrayList;
 
 public class ArrayLisyPiorityQueue {
 	
@@ -23,6 +23,8 @@ public class ArrayLisyPiorityQueue {
 	                 }
 	       }
 	       return max;
+	}
+
 	}
 
 }
